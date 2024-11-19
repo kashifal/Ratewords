@@ -117,7 +117,7 @@ const handleInputChange = (e) => {
 
 return (
   <div className="app bg-white rounded-md shadow-sm ring-1 ring-slate-200 px-12 py-8  max-w-3xl lg:max-w-5xl w-full  mx-auto">
-    <h1 className="font-semibold underline text-emerald-700">RateWords</h1>
+    <h1 className="font-semibold underline text-3xl text-emerald-700">RateWords</h1>
     <p className="pt-2 text-sm text-gray-500">
       RateWords helps users draft impactful reviews by dynamically calculating
       and displaying the weight of their text based on predefined word values.
